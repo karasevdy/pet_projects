@@ -11,8 +11,8 @@ School life expectancy by level of education (in years) |[UNESCO Institute for S
 Initial government funding per student by level of education (in constant PPP$) |[UNESCO Institute for Statistics](http://data.uis.unesco.org)|
 Household funding per student by level of education (in constant PPP$)| [UNESCO Institute for Statistics](http://data.uis.unesco.org)|
 |||
-|Harmonized Learning Outcome (HLO) on reading at primary school (for both sexes)
-Harmonized Learning Outcome (HLO) on math at secondary school (for both sexes)
+|Harmonized Learning Outcome (HLO) on reading at primary school (for both sexes)|Harmonized Learning Outcomes (HLO) Database(Patrinos, Angrist, 2018)|
+Harmonized Learning Outcome (HLO) on math at secondary school (for both sexes)|Harmonized Learning Outcomes (HLO) Database(Patrinos, Angrist, 2018)|
 Harmonized Learning Outcome (HLO) on science at secondary school (for both sexes)|Harmonized Learning Outcomes (HLO) Database(Patrinos, Angrist, 2018)|
 |||
 |GDP (in constant PPP$) |[World Bank World Development Indicators database](https://data.worldbank.org/indicator)|
