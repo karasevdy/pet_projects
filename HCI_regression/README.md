@@ -5,26 +5,28 @@
 ## Описание данных
 | **Переменные**  | **Источник**           |
 | :-------------- | :--------------------- |
-| Total net enrolment rate (TNER) by level of education (in %)
-Repetition rate by level of education (in %)
-School life expectancy by level of education (in years)
-Initial government funding per student by level of education (in constant PPP$)
+| Total net enrolment rate (TNER) by level of education (in %) |[UNESCO Institute for Statistics](http://data.uis.unesco.org)|
+Repetition rate by level of education (in %) |[UNESCO Institute for Statistics](http://data.uis.unesco.org)|
+School life expectancy by level of education (in years) |[UNESCO Institute for Statistics](http://data.uis.unesco.org)|
+Initial government funding per student by level of education (in constant PPP$) |[UNESCO Institute for Statistics](http://data.uis.unesco.org)|
 Household funding per student by level of education (in constant PPP$)| [UNESCO Institute for Statistics](http://data.uis.unesco.org)|
 |||
 |Harmonized Learning Outcome (HLO) on reading at primary school (for both sexes)
 Harmonized Learning Outcome (HLO) on math at secondary school (for both sexes)
 Harmonized Learning Outcome (HLO) on science at secondary school (for both sexes)|Harmonized Learning Outcomes (HLO) Database(Patrinos, Angrist, 2018)|
 |||
-|GDP (in constant PPP$)
-Population, total
+|GDP (in constant PPP$) |[World Bank World Development Indicators database](https://data.worldbank.org/indicator)|
+Population, total |[World Bank World Development Indicators database](https://data.worldbank.org/indicator)|
 Urbanization rate (%) |[World Bank World Development Indicators database](https://data.worldbank.org/indicator)|
 |||
-|Government schemes and compulsory contributory health care financing schemes (in constant PPP$ per capita)
-Compulsory contributory health insurance schemes (in constant PPP$ per capita)
-Voluntary health insurance schemes (in constant PPP$ per capita)
+|Government schemes and compulsory contributory health care financing schemes (in constant PPP$ per capita) |[WHO Global Health Expenditure Database](https://apps.who.int/nha/database)|
+Compulsory contributory health insurance schemes (in constant PPP$ per capita) |[WHO Global Health Expenditure Database](https://apps.who.int/nha/database)|
+Voluntary health insurance schemes (in constant PPP$ per capita) |[WHO Global Health Expenditure Database](https://apps.who.int/nha/database)|
 Household out-of-pocket payment (in constant PPP$ per capita)|[WHO Global Health Expenditure Database](https://apps.who.int/nha/database)|
 |||
 |Mortality rates for 15–60-year-olds|[UNDP](https://data.unicef.org/resources/resource-topic/malnutrition/)|
 Under-5 mortality rate (per 1000 birth)|[UNICEF WHO WBG](https://population.un.org/wpp/)| 
 Children under-5 stunting rate (%)|[UN IGME](https://childmortality.org)|
+|||
+|Government social protection spending (as % of GDP)|[IMF Data – Functional Expenditure (COFOG)](https://data.imf.org/regular.aspx?key=61037799)|
  
